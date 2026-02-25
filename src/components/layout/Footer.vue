@@ -1,5 +1,5 @@
 <script setup>
-import { BookOpen } from 'lucide-vue-next'
+import { BookOpen, Github } from 'lucide-vue-next'
 </script>
 
 <template>
@@ -15,9 +15,13 @@ import { BookOpen } from 'lucide-vue-next'
           <p class="text-sm max-w-sm mb-6">
             Manual profesional para integrar inteligencia artificial en el periodismo de manera ética, segura y efectiva. Disponible bajo licencia Creative Commons.
           </p>
-          <div class="flex space-x-4">
-            <a href="#" class="text-slate-400 hover:text-white border border-slate-700 rounded px-3 py-1 text-xs">seguridades.org</a>
-            <a href="#" class="text-slate-400 hover:text-white border border-slate-700 rounded px-3 py-1 text-xs">CC BY-SA 4.0</a>
+          <div class="flex flex-wrap gap-3 mt-4">
+            <a href="https://seguridades.org" target="_blank" rel="noopener noreferrer" class="text-slate-400 hover:text-white border border-slate-700/80 hover:border-slate-500 rounded px-3 py-1.5 text-xs transition-colors">seguridades.org</a>
+            <a href="https://github.com/seguridades/ia-periodistas" target="_blank" rel="noopener noreferrer" class="text-slate-400 hover:text-white border border-slate-700/80 hover:border-slate-500 rounded px-3 py-1.5 text-xs flex items-center gap-1.5 transition-colors">
+              <Github class="w-3.5 h-3.5" />
+              Ver Código Fuente
+            </a>
+            <span class="text-slate-500 border border-transparent px-1 py-1.5 text-xs">CC BY-SA 4.0</span>
           </div>
         </div>
         
