@@ -1,6 +1,6 @@
 # IA para Periodistas Ninja 🥷📰
 
-**[seguridades.org](https://seguridades.org)** | Un manual profesional y de código abierto para integrar Inteligencia Artificial en el periodismo de manera ética, segura y táctica.
+**[seguridades.org](https://seguridades.org)** | Un manual de código abierto para integrar Inteligencia Artificial en el periodismo de manera ética, segura y táctica.
 
 [![Licencia](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.0-4FC08D?logo=vue.js&logoColor=white)](https://vuejs.org/)
